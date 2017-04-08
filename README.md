@@ -1,2 +1,2 @@
 # BookMarkIt
-An online bookmarker web app under construction.
+An online bookmarker web app. Not complete yet.
